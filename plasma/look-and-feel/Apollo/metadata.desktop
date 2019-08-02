@@ -12,4 +12,4 @@ X-KDE-PluginInfo-Website=https://github.com/freefreeno/Apollo-KDE
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 X-Plasma-MainScript=defaults
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1297506,kns://plasma-themes.knsrc/api.kde-look.org/1297508,kns://aurorae.knsrc/api.kde-look.org/1308855,kns://icons.knsrc/api.kde-look.org/1309919,kns://wallpaper.knsrc/api.kde-look.org/1317085,kns://wallpaper.knsrc/api.kde-look.org/1317084
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1317121,kns://plasma-themes.knsrc/api.kde-look.org/1317122,kns://aurorae.knsrc/api.kde-look.org/1317123,kns://icons.knsrc/api.kde-look.org/1317124,kns://wallpaper.knsrc/api.kde-look.org/1317085,kns://wallpaper.knsrc/api.kde-look.org/1317084
